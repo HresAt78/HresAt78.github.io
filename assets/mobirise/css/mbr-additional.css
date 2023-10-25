@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
+
+#ext_menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-0 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header4-2 H1 {
+  font-size: 36px;
+}
+#header4-2 .btn {
+  font-family: 'Arimo', sans-serif;
+  font-size: 16px;
+}
